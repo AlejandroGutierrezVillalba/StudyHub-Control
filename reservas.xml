@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<reservas>
+  <reserva id="4">
+    <usuario_id>1</usuario_id>
+    <usuario_nombre>perico 2</usuario_nombre>
+    <usuario_dni>5</usuario_dni>
+    <puesto_id>6</puesto_id>
+    <puesto_numero>1</puesto_numero>
+    <aula>Sala Juntas</aula>
+    <tipo_puesto>reunión</tipo_puesto>
+    <fecha>2026-02-25</fecha>
+    <hora_inicio>12:25:00</hora_inicio>
+    <hora_fin>18:25:00</hora_fin>
+    <estado>activa</estado>
+  </reserva>
+  <reserva id="1">
+    <usuario_id>1</usuario_id>
+    <usuario_nombre>perico 2</usuario_nombre>
+    <usuario_dni>5</usuario_dni>
+    <puesto_id>1</puesto_id>
+    <puesto_numero>1</puesto_numero>
+    <aula>Aula101</aula>
+    <tipo_puesto>estudio</tipo_puesto>
+    <fecha>2026-02-23</fecha>
+    <hora_inicio>12:25:00</hora_inicio>
+    <hora_fin>13:25:00</hora_fin>
+    <estado>activa</estado>
+  </reserva>
+  <reserva id="3">
+    <usuario_id>1</usuario_id>
+    <usuario_nombre>perico 2</usuario_nombre>
+    <usuario_dni>5</usuario_dni>
+    <puesto_id>4</puesto_id>
+    <puesto_numero>1</puesto_numero>
+    <aula>Biblioteca</aula>
+    <tipo_puesto>estudio</tipo_puesto>
+    <fecha>2024-05-21</fecha>
+    <hora_inicio>16:00:00</hora_inicio>
+    <hora_fin>18:00:00</hora_fin>
+    <estado>activa</estado>
+  </reserva>
+  <reserva id="2">
+    <usuario_id>3</usuario_id>
+    <usuario_nombre>Carlos García</usuario_nombre>
+    <usuario_dni>12345678</usuario_dni>
+    <puesto_id>3</puesto_id>
+    <puesto_numero>3</puesto_numero>
+    <aula>Aula101</aula>
+    <tipo_puesto>ordenador</tipo_puesto>
+    <fecha>2024-05-20</fecha>
+    <hora_inicio>09:00:00</hora_inicio>
+    <hora_fin>11:00:00</hora_fin>
+    <estado>activa</estado>
+  </reserva>
+</reservas>
